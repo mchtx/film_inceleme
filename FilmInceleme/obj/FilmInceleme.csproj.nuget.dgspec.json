@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90553\\OneDrive\\Masaüstü\\ileri web\\FilmInceleme\\FilmInceleme.csproj": {}
+    "C:\\Users\\mcht7\\Desktop\\film_inceleme\\FilmInceleme\\FilmInceleme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90553\\OneDrive\\Masaüstü\\ileri web\\FilmInceleme\\FilmInceleme.csproj": {
+    "C:\\Users\\mcht7\\Desktop\\film_inceleme\\FilmInceleme\\FilmInceleme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90553\\OneDrive\\Masaüstü\\ileri web\\FilmInceleme\\FilmInceleme.csproj",
+        "projectUniqueName": "C:\\Users\\mcht7\\Desktop\\film_inceleme\\FilmInceleme\\FilmInceleme.csproj",
         "projectName": "FilmInceleme",
-        "projectPath": "C:\\Users\\90553\\OneDrive\\Masaüstü\\ileri web\\FilmInceleme\\FilmInceleme.csproj",
-        "packagesPath": "C:\\Users\\90553\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90553\\OneDrive\\Masaüstü\\ileri web\\FilmInceleme\\obj\\",
+        "projectPath": "C:\\Users\\mcht7\\Desktop\\film_inceleme\\FilmInceleme\\FilmInceleme.csproj",
+        "packagesPath": "C:\\Users\\mcht7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mcht7\\Desktop\\film_inceleme\\FilmInceleme\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\90553\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mcht7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -79,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
